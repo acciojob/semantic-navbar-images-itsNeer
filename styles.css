@@ -1,2 +1,7 @@
-
+ li, a{
+	text-decoration:none; 
+	list-style-type: none;
+	 color: olive;
+	 /* display: flex; */
+}
 /* Your CSS Code here. */
